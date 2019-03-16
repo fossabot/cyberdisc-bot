@@ -1,4 +1,5 @@
 # Cyber Discovery Discord Bot [![Build Status](https://travis-ci.com/CyberDiscovery/cyberdisc-bot.svg?branch=master)](https://travis-ci.com/CyberDiscovery/cyberdisc-bot) [![Discord](https://discordapp.com/api/guilds/409851296116375565/embed.png)](https://discord.gg/AQPh34Y)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjos-b%2Fcyberdisc-bot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjos-b%2Fcyberdisc-bot?ref=badge_shield)
 The bot for the Cyber Discovery Community Discord Server!
 
 ## Installation
@@ -50,3 +51,7 @@ Finally, run the command `poetry run cdbot` in the root of the repository to run
 * **`:quotes [@mention]`** - Will return a random quote from the #quotes channel. Adding an username/mention will result in a random quote from that user being selected.
 * **`:agentj text`** - Creates an image of Agent J with the specified text.
 * **`:jibhat text`** - Creates an image of Jibhat with the specified text.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjos-b%2Fcyberdisc-bot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjos-b%2Fcyberdisc-bot?ref=badge_large)
